@@ -1,11 +1,16 @@
 _repo: Historical-and-descriptive-narrative-of-twenty-years-residence-in-South-America-Vol-3-of-3-Co__55778
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55778-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, William Bennet
     gutenberg_agent_id: '48505'
     url: http://www.gutenberg.org/2009/agents/48505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55778#Historical-and-descriptive-narrative-of-twenty-years-residence-in-South-America-Vol-3-of-3-Co_
 gutenberg_issued: '2017-10-19'
 gutenberg_type: Text
 identifiers:
